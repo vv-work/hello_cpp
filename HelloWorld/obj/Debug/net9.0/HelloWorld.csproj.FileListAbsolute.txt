@@ -1,0 +1,14 @@
+/Users/julius/git/hello_cpp/HelloWorld/obj/Debug/net9.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/julius/git/hello_cpp/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/julius/git/hello_cpp/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfo.cs
+/Users/julius/git/hello_cpp/HelloWorld/obj/Debug/net9.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/julius/git/hello_cpp/HelloWorld/bin/Debug/net9.0/HelloWorld
+/Users/julius/git/hello_cpp/HelloWorld/bin/Debug/net9.0/HelloWorld.deps.json
+/Users/julius/git/hello_cpp/HelloWorld/bin/Debug/net9.0/HelloWorld.runtimeconfig.json
+/Users/julius/git/hello_cpp/HelloWorld/bin/Debug/net9.0/HelloWorld.dll
+/Users/julius/git/hello_cpp/HelloWorld/bin/Debug/net9.0/HelloWorld.pdb
+/Users/julius/git/hello_cpp/HelloWorld/obj/Debug/net9.0/HelloWorld.dll
+/Users/julius/git/hello_cpp/HelloWorld/obj/Debug/net9.0/refint/HelloWorld.dll
+/Users/julius/git/hello_cpp/HelloWorld/obj/Debug/net9.0/HelloWorld.pdb
+/Users/julius/git/hello_cpp/HelloWorld/obj/Debug/net9.0/HelloWorld.genruntimeconfig.cache
+/Users/julius/git/hello_cpp/HelloWorld/obj/Debug/net9.0/ref/HelloWorld.dll

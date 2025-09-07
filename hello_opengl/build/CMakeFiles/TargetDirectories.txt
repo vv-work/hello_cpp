@@ -1,0 +1,3 @@
+/Users/julius/git/hello_cpp/hello_opengl/build/CMakeFiles/hello_gl.dir
+/Users/julius/git/hello_cpp/hello_opengl/build/CMakeFiles/edit_cache.dir
+/Users/julius/git/hello_cpp/hello_opengl/build/CMakeFiles/rebuild_cache.dir
